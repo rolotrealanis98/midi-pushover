@@ -1,0 +1,22 @@
+{
+  "pushover_user_key": "YOUR_USER_KEY_HERE",
+  "pushover_api_token": "YOUR_API_TOKEN_HERE",
+  "selected_device": null,
+  "midi_mappings": {
+    "60": {
+      "message": "Stage needs assistance!",
+      "priority": 1,
+      "sound": "pushover"
+    },
+    "62": {
+      "message": "Technical issue on stage",
+      "priority": 0,
+      "sound": "pushover"
+    },
+    "64": {
+      "message": "Sound check requested",
+      "priority": -1,
+      "sound": "pushover"
+    }
+  }
+}
