@@ -24,7 +24,7 @@ A macOS menu bar application that sends push notifications to your devices when 
 
 ### Option 1: Download Pre-built App (Recommended)
 
-1. Download the latest release from the [Releases](https://github.com/yourusername/midi-pushover/releases) page
+1. Download the latest release from the [Releases](https://github.com/rolotrealanis98/midi-pushover/releases/) page
 2. Open the DMG file and drag the app to your Applications folder
 3. Right-click the app and select "Open" (first time only, to bypass Gatekeeper)
 
@@ -32,8 +32,8 @@ A macOS menu bar application that sends push notifications to your devices when 
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/rolotrealanis98/midi-pushover-notifier.git
-   cd midi-pushover-notifier
+   git clone https://github.com/rolotrealanis98/midi-pushover.git
+   cd midi-pushove
    ```
 
 2. Install dependencies:
