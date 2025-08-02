@@ -32,7 +32,7 @@ A macOS menu bar application that sends push notifications to your devices when 
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/midi-pushover-notifier.git
+   git clone https://github.com/rolotrealanis98/midi-pushover-notifier.git
    cd midi-pushover-notifier
    ```
 
