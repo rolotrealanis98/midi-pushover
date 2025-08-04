@@ -33,7 +33,7 @@ A macOS menu bar application that sends push notifications to your devices when 
 1. Clone this repository:
    ```bash
    git clone https://github.com/rolotrealanis98/midi-pushover.git
-   cd midi-pushove
+   cd midi-pushover
    ```
 
 2. Install dependencies:
